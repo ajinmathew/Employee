@@ -24,6 +24,9 @@
         android:textColor="#050505"
         android:layout_gravity="left"/>
     <EditText
+        android:textColorHint="@color/pacha"
+        android:textColor="@color/pacha"
+        android:hint="kuttan kozhi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/username"/>
